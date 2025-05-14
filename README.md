@@ -2,6 +2,10 @@
 
 ###
 
+I am Artem, a passionate frontend developer specializing in modern JavaScript frameworks. Turning ideas into clean, efficient code.
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
